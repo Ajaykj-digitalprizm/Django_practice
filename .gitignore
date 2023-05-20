@@ -1,0 +1,13 @@
+# Django-related files and directories
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+staticfiles/
+
+# Environment-specific files
+.env
+.env.*
+env/
+venv/
+.venv
